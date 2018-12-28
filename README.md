@@ -21,7 +21,7 @@ Next, the steps you need to follow in order to install any button of here are:
 4. **Enter** into the folder of the button and select the type of button you want.
 5. Depending on the type of button (Black, Transparent or White), you need to **copy** the image and **paste** it into the folder "@Resources/Buttons".
 6. Now, just **open** Rainmeter, **search** unFold and **load** the button you want. You can change the position of it but this kind of buttons are always in the border right or left of the dektop.
-7. If the path of a button doesn't work, probably you should edit the file (in each file it has on the top a comment where indicate where you need to change the path) and write the correct path of your program.
+7. If the path of a button doesn't work, probably you should edit the file (in each file it has on the top a comment that indicate where you need to change the path) and write the correct path of your program.<br />
 Now, if you want to try to do your own button you can check the Button Templete in this repository and modify the files of the "Create a new Button" folder.
 ## Authors and Credits :book:
 * The original idea of the unFold skins is of [DevilRev](https://www.deviantart.com/devilrev).
