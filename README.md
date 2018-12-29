@@ -1,5 +1,5 @@
 # Icons Rainmeter unFold
-In this repository you will able to find different icons of the type **unFold** for **Rainmeter**.
+In this repository you will be able to find different icons of the type **unFold** for **Rainmeter**.
 ## What are the unFold skins? :computer:
 The **unFold** skins are buttons that can be added on your desktop to use them as shortcuts.<br />
 They have very nice designs and you can add them in the right/left of your desktop.
