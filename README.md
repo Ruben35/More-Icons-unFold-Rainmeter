@@ -1,4 +1,4 @@
-# Icons Rainmeter unFold
+# Icons Rainmeter unFold [![HitCount](http://hits.dwyl.io/Ruben35/https://github.com/Ruben35/Icons-unFold-Rainmeter.svg)](http://hits.dwyl.io/Ruben35/https://github.com/Ruben35/Icons-unFold-Rainmeter)
 In this repository you will be able to find different icons of the type **unFold** for **Rainmeter**.
 ## What are the unFold skins? :computer:
 The **unFold** skins are buttons that can be added on your desktop to use them as shortcuts.<br />
