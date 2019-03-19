@@ -15,7 +15,7 @@ Things you need to use this skins on your desktop.
 * Know the path where the skins of Rainmeter are located.
 ## Installation :wrench:
 Now, you can only go to the [releases](https://github.com/Ruben35/Icons-unFold-Rainmeter/releases) apart and **download** the binary **.rmskin**, then you only need to **execute** the binary and add the skin (if you have already the unFold skin this will upgrade them adding the new buttons).<br/>
-But if you want, you can do it the old way :hammer_and_pick:. <br/>
+But if you want, you can do it the old way :hammer_and_pick:. <br/><br/>
 The steps you need to follow in order to install any button of here are:
 1. **Clone** or **download** this project.
 2. **Select** the folder of the button you want to add on your desktop.
