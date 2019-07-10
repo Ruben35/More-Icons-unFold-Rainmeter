@@ -1,6 +1,14 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/Ruben35/Icons-unFold-Rainmeter/total.svg?color=informational) ![Github All Releases](https://img.shields.io/badge/license-GNU%20GPLv2-informational.svg) [![HitCount](http://hits.dwyl.io/Ruben35/https://github.com/Ruben35/Icons-unFold-Rainmeter.svg)](http://hits.dwyl.io/Ruben35/https://github.com/Ruben35/Icons-unFold-Rainmeter)
 # Icons Rainmeter unFold
 In this repository you will be able to find different icons of the type **unFold** for **Rainmeter**.
+## Contents :bookmark_tabs:
+1. [What are the unFold skins?](https://github.com/Ruben35/Icons-unFold-Rainmeter#what-are-the-unfold-skins-computer)
+2. [Pre-requirements](https://github.com/Ruben35/Icons-unFold-Rainmeter#pre-requirements-memo)
+3. [Installation](https://github.com/Ruben35/Icons-unFold-Rainmeter#installation-wrench)
+4. [How to contribute?](https://github.com/Ruben35/Icons-unFold-Rainmeter#how-to-contribute-balloon)
+5. [Realeses Features](https://github.com/Ruben35/Icons-unFold-Rainmeter#realeses-features-clipboard)
+6. [Authors and Credits](https://github.com/Ruben35/Icons-unFold-Rainmeter#authors-and-credits-book)
+7. [License](https://github.com/Ruben35/Icons-unFold-Rainmeter#license-page_with_curl)
 ## What are the unFold skins? :computer:
 The **unFold** skins are buttons that can be added on your desktop to use them as shortcuts.<br />
 They have very nice designs and you can add them in the right/left of your desktop.
@@ -8,7 +16,7 @@ They have very nice designs and you can add them in the right/left of your deskt
 ![Example of Desktop](https://user-images.githubusercontent.com/30848819/50526747-ca391480-0aa9-11e9-832c-b93dbca7e8d7.jpg)
 ###### Where the unFold buttons are:
 ![Example of Button](https://user-images.githubusercontent.com/30848819/50526744-bdb4bc00-0aa9-11e9-8cbb-c4e4d81813f8.jpg)
-## Pre-requirements :clipboard:
+## Pre-requirements :memo:
 Things you need to use **all** this skins on your desktop.
 * Have the last version of Rainmeter (this project was developed in version 4.2.0) installed in your PC.
 * Enough space on your disk to clone or download the skins.
