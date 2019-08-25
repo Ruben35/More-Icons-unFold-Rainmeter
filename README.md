@@ -46,7 +46,7 @@ If you want to contribute to this repository you can:
 
 If you do the last thing, you should check the [CONTRIBUTING](https://github.com/Ruben35/Icons-unFold-Rainmeter/blob/master/CONTRIBUTING.md) file and the [CODE_OF_CONDUCT](https://github.com/Ruben35/Icons-unFold-Rainmeter/blob/master/CODE_OF_CONDUCT.md) file to see how can you do your button and how this repository works. <br/ >
 
-And if you **open** a issue or a pull request you must **assign** me the issue and **mention** me.
+And if you **open** an issue or a pull request you must **assign** me the issue and **mention** me.
 ## Realeses Features :clipboard:
 You can see the features of each realese [here](https://github.com/Ruben35/Icons-unFold-Rainmeter/blob/master/REALESES_FEATURES.md).
 ## Authors and Credits :book:
