@@ -1,7 +1,26 @@
 # FEATURES :clipboard:
-In this section you will able to see the **features** on each realease, starting with the **newest** one.
-## :green_book: unFold 3.0 
-It contains the same buttons as the **unFold 2.0** version but with the next features:
+In this section you will able to see the **features** on each release, starting with the **newest** one.
+## :green_book: unFold 4.0
+It contains the same buttons as the **unFold 3.0** version but with the next features:
+1. **Integration** of the buttons developed by [PinkDev1](https://github.com/PinkDev1). Which are:
+    - Wireshark
+    - NOip
+    - mIRC
+    - Counter Strike
+    - Hollow Knight
+    - GeoGebra
+    - Tetris
+    - OpenBlock
+    - DownWell
+    - Stardwey Valley
+    - OBS Studio 
+    - Tiled
+2. **Integration** of the buttons developed by [Ruben35](https://github.com/Ruben35). Which are:
+    - Dev C++ IDE    
+<br>
+
+## :closed_book: unFold 3.0 
+It contains the same buttons as the **unFold 2.0** version  but with the next features:
 1. Bug **fixes** on some buttons.
 2. **Integration** of the buttons developed by [PinkDev1](https://github.com/PinkDev1). Which are:
     - Android Studio
@@ -41,6 +60,7 @@ It contains the same buttons as the **unFold 2.0** version but with the next fea
     - JetBrains WebStorm IDE
 4. **Improvement** of the _.rmskin_ package 
 5. The **adding** of the authors and information of each button.
+<br>
 
 ## :closed_book: unFold 2.0
 This is the first version, and it contains all the buttons developed by [DevilRev](https://www.deviantart.com/devilrev), and the ones developed by [Ruben35](https://github.com/Ruben35) on this [repository](https://github.com/Ruben35/Icons-unFold-Rainmeter.).
