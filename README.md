@@ -54,5 +54,6 @@ You can see the features of each realese [here](https://github.com/Ruben35/Icons
 * The buttons on this repository were developed by:
     - [Ruben35](https://github.com/Ruben35) Owner of this repository.
     - [PinkDev1](https://github.com/PinkDev1) Contributor.
+    - [feedmes1eep](https://github.com/feedmes1eep) Contributor.
 ## License :page_with_curl:
 All the content of this project is under the GNU General Public License v2.0 - look the [LICENSE](https://github.com/Ruben35/Icons-unFold-Rainmeter/blob/master/LICENSE) file for more details.
