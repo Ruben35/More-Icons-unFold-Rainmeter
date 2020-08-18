@@ -9,17 +9,17 @@ To create a new button, you need to:
 -Left Button Template.ini
 -Right Button Template.ini
 ```
-3. **Edit** the _.psd_ files in order to put your button. (it is necessary to have Adobe Photoshop or similar to open this files).
+3. **Edit** the _Right/Left Button template.psd_ files in order to put your button. (it is necessary to have Adobe Photoshop or similar to open these files).
 4. **Save** the buttons as:
 ```
 -NAME_OF_YOUR_BUTTON Left.png
 -NAME_OF_YOUR_BUTTON Right.png
 ```
-5. **Change** the _.ini_ files changing the words:
+5. **Edit** the _Right/Left Button .ini_ files changing the words:
     - _YOURNAME_: This is your name,
     - _NAMEHERE_: This is the name of the program (your button)
     - _PATHHERE_: This is the path to start your program (if you dont know it, just put the name of the program and the word "PATH").
-5. **Rename** the _.ini_ files as:
+5. **Save** the edited _.ini_ files **as**:
 ```
 -NAME_OF_YOUR_BUTTON Left.ini
 -NAME_OF_YOUR_BUTTON Right.ini
