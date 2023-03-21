@@ -30,8 +30,8 @@ To create a new button, you need to:
 │   └───Transparent
 │           NAME_OF_YOUR_BUTTON Left.ini
 │           NAME_OF_YOUR_BUTTON Right.ini
-├───Buttons
-│   └───Transparent
+├───@Resources
+│   └───unFold
 │           NAME_OF_YOUR_BUTTON Left.png
 │           NAME_OF_YOUR_BUTTON Right.png
 ```
