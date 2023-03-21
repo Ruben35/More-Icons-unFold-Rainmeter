@@ -33,10 +33,9 @@ The steps you need to follow in order to install any button of here are:
 1. **Clone** or **download** this project.
 2. **Select** the folder of the button you want to add on your desktop.
 3. **Paste** the folder in the Skins of Rainmeter in the folder "unFold" (if you still don't have the others unFold buttons you can download them [here](https://www.deviantart.com/devilrev/art/unFold-A-Launcher-618503449)).
-4. **Enter** into "_Buttons_" and **select** the button you want or **copy** & **paste** all the folder into "@Resources/Buttons" (if you do the last you can ommit step 5).
-5. Depending on the type of button (Black, Transparent or White), you need to **copy** the image and **paste** it into the folder "@Resources/Buttons".
-6. Now, just **open** Rainmeter, **search** unFold and **load** the button you want. You can change the position of it but this kind of buttons are always in the border right or left of the dektop.
-7. If the path of a button doesn't work, probably you should **edit** the file (in each file it has on the top a comment that indicate where you need to change the path) and **write** the correct path of your program.
+4. Copy @Resources/ into Rainmeter/Skins/unFold/@Resources/
+5. Now, just **open** Rainmeter, **search** unFold and **load** the button you want. You can change the position of it but this kind of buttons are always in the border right or left of the dektop.
+6. If the path of a button doesn't work, probably you should **edit** the file (in each file it has on the top a comment that indicate where you need to change the path) and **write** the correct path of your program.
 ## How to contribute? :balloon:
 If you want to contribute to this repository you can:
 * **Open** issues in order to **give** me suggestions of new buttons.
