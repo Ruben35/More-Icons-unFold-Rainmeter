@@ -57,3 +57,40 @@ You can see the features of each realese [here](https://github.com/Ruben35/Icons
     - [feedmes1eep](https://github.com/feedmes1eep) Contributor.
 ## License :page_with_curl:
 All the content of this project is under the GNU General Public License v2.0 - look the [LICENSE](https://github.com/Ruben35/Icons-unFold-Rainmeter/blob/master/LICENSE) file for more details.
+
+
+# reFold 📰
+_reFold is a modified version of unFold where everything (except the icon) can be defined in the "ini" file._ Allows you to have different color text, background etc with minimal adjustments.
+
+## reFold Configuration 
+* Download the repository and make copies of the reFold-template_Left or reFold-template_Right 
+* rename the folder for your app
+* open the "ini" file and go to the ```[Variables]``` section
+* configure your shortcut:
+    - **Width, Height, maxWidth**: set the collapsed and expanded size of the button
+    - **bgColor**: sets the background color and oppacity. Oppacity should be at least 1
+    - **iconColor**: sets the icon color
+    - **iconPath**: path to the icon. Place icons in the "Images" folder in the unFold skin 
+    - **iconSize**: sets icon size
+    - **textColor**: sets color of text
+    - **textString**: text to be displayed on the button
+    - **textFont**: font face. Windows installed fonts and fonts in "Fonts" folder are valid
+    - **textWeight**: sets text weight. 100 = thin, 900 = bold
+    - **textSize**: sets text size
+    - **application**: Change this for your application. See bellow for more syntax
+### application syntax
+The simplest usage of the application is to simple put the full path to your application in square brackets and double quotes. Eg:\
+```application = ["C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"]```\
+```application = ["C:\Users\Username\Documents\important.doc"]```
+
+or if your application is already in your ```PATH``` environment variable, you can simply call:\
+```application = ["chrome.exe"]```
+
+If you'd like to open a program with paramaters that is done as such:\
+```application = !Execute ["chrome.exe" rainmeter.net]```\
+```application = !Execute ["chrome.exe" --incognito rainmeter.net]```
+
+You can launch multiple programs at once by putting multiple actions there\
+```application= !Execute ["chrome.exe" rainmeter.net]["Calc.exe"]```
+
+In short, any action you can do with rainmeter is valid here.
