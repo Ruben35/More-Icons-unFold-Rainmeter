@@ -141,7 +141,7 @@ application = !Execute ["chrome.exe" --incognito rainmeter.net]
 application= !Execute ["chrome.exe" rainmeter.net]["Calc.exe"]
 ```
 
-### **[In case of any trouble with configuration, please take a look at the code of buttons that were made using the reFold scheme](./vivaldi/black/Vivaldi%20Right.ini)**
+### **[In case of any trouble with configuration, please take a look at the code of buttons that were made using the reFold scheme](./Vivaldi/Black/Vivaldi%20Right.ini)**
 
 ## 6. Changelog
 You can see the features of each release [here](CHANGELOG.md).
